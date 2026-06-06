@@ -10,8 +10,7 @@ A2A-MemForensics/
 ├── A2A-Test-Beds/              # Multi-agent travel-assistant system
 ├── hotel-booking-agent-card-poc/  # Hotel-booking PoC with poisoning simulation
 └── tool/                       # Forensics reconstruction tool
-    ├── a2a_reconstruct.py      # CLI tool
-    ├── test.vmem       # Bundled sample memory image
+    ├── a2a_reconstruct.py      
     └── ui/
         ├── app_ui.py           # PyQt6 GUI
         └── requirements.txt
